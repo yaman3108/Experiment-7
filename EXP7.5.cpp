@@ -5,8 +5,7 @@ using namespace std;
 //sum and average
 int main() {
 int arr1[10], i, j;
-int sum=0;
-float avg;
+float sum=0, avg;
 for(i=0;i<10;i++) {
 cout<<"Enter element-"<<i+1<<": ";
 cin>>arr1[i];
