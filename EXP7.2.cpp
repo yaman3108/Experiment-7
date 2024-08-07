@@ -1,10 +1,20 @@
 #include<iostream>
-#define size5
+#define size 10
 using namespace std;
 
 //Name:Yaman Hasan Ansari PRN:230701231552
-// Sum of elements 
-      for(int k = 0; k<size5; k++){
-            sum5 = sum5 + arr3[k];
-      }
-      cout<<"The sum of the elements in the array is:"<<sum5;
+//take input from user
+int main()
+{
+int arr[size];
+cout << "Enter " << size << " elements of array: ";
+for (int index = 0; index < size; index++) {
+cin >> arr[index];
+}
+cout << endl;
+// display entered array ekements
+for (int j : arr) {
+cout << j << " ";
+}
+return 0;
+}
