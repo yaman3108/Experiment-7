@@ -2,6 +2,7 @@
 using namespace std;
 
 //Name: Yaman Hasan Ansari PRN:23070123155
+//Search element in array
 int main() {
 int marks[5], i, j, num, flag=0, count=0;
 for(i=0;i<5;i++) {
