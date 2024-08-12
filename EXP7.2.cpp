@@ -3,7 +3,7 @@
 using namespace std;
 
 //Name:Yaman Hasan Ansari PRN:230701231552
-//take input from user
+//Take input from user
 int main()
 {
 int arr[size];
