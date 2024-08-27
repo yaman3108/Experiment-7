@@ -4,7 +4,7 @@ using namespace std;
 //Name: Yaman Hasan Ansari
 int main()
 {
-  int array[5]={19,10,8,17,9};
+  int array1[5]={19,10,8,17,9};
   int array2[]={19,10,8,17,9};
   int array3[5]={19,10,8};
 
