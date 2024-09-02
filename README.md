@@ -41,7 +41,7 @@ In C++, an array is a data structure consisting of a collection of elements of s
 
 ### Printing elements in an array:
 ```
-#include<iostrean>
+#include<iostream>
 using namespace std;
 
 //Name: Yaman Hasan Ansari
@@ -61,7 +61,7 @@ cout<<endl;
 }
 ```
 ### Output:
-![Screenshot 2024-08-05 113519](https://github.com/user-attachments/assets/20202799-f746-4952-8e24-73e6072142de)
+![Screenshot 2024-09-02 095158](https://github.com/user-attachments/assets/4bbfe6fc-b817-451e-aa53-8ac078edb15f)
 
 ### User Input:
 ```
@@ -87,7 +87,7 @@ return 0;
 }
 ```
 ### Output:
-![Screenshot 2024-08-05 113658](https://github.com/user-attachments/assets/abde726c-3bfa-4c43-a81f-565b24bc05a6)
+![Screenshot 2024-09-02 095317](https://github.com/user-attachments/assets/cc798375-76ec-4beb-bf4c-dececde0ec54)
 
 ### Reverse array:
 ```
@@ -129,7 +129,7 @@ cout<<endl;
 }
 ```
 ### Output:
-![Screenshot 2024-08-05 113816](https://github.com/user-attachments/assets/e1bc9c26-4d3c-4efb-a287-086d0a219f53)
+![Screenshot 2024-09-02 095352](https://github.com/user-attachments/assets/5f43733a-6ba2-4db4-b63e-03bad0327340)
 
 ### Search elements in an array:
 ```
@@ -162,7 +162,7 @@ cout<<"marks are present: "<<count<<" times";
 }
 ```
 ### Output:
-![Screenshot 2024-08-05 113816](https://github.com/user-attachments/assets/e1bc9c26-4d3c-4efb-a287-086d0a219f53)
+![Screenshot 2024-09-02 095423](https://github.com/user-attachments/assets/62149fe9-4d32-4b11-9205-bac360b5048e)
 
 ## Sum and avg:
 ```
@@ -187,6 +187,7 @@ cout<<"Average = "<<avg;
 }
 ```
 ### Output:
+![Screenshot 2024-09-02 095508](https://github.com/user-attachments/assets/df726862-5316-4ff6-a517-e25ed22b531c)
 
 ## Max and min:
 ```
@@ -219,6 +220,7 @@ cout<<"Maximum: "<<max<<endl<<"Minimum: "<<min;
 }
 ```
 ### Output:
+![Screenshot 2024-09-02 095526](https://github.com/user-attachments/assets/f1dde51d-4049-4f0a-8611-2cb6af14264c)
 
 ## String:
 ```
@@ -236,6 +238,7 @@ return 0;
 }
 ```
 ### Output:
+![Screenshot 2024-09-02 095542](https://github.com/user-attachments/assets/66cd242d-1aee-4fa3-aaed-a6da14eea5c1)
 
 ## Concatenation:
 ```
@@ -254,6 +257,7 @@ return 0;
 ```
 
 ### Output:
+![Screenshot 2024-09-02 095558](https://github.com/user-attachments/assets/950fe13a-3bf7-4828-b21e-9a03b41e7787)
 
 ## Length of string:
 ```
@@ -275,7 +279,7 @@ return 0;
 }
 ```
 ### Output:
-
+![Screenshot 2024-09-02 095614](https://github.com/user-attachments/assets/b1d04391-b48d-402a-8e97-8f48b808bfb5)
 
 ## Conclusion:
 This program helps us understand how arrays work in C++. Thier various different applications and operations.
