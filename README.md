@@ -12,7 +12,7 @@ Vs Code, Github
 
 ## Theory:
 
-In computer science, an array is a data structure consisting of a collection of elements of same memory size, each identified by at least one array index or key. Arrays have continous memory allocation In C++ language, the array has a fixed size meaning once the size is given to it, it cannot be changed. The reason was that for expanding if we change the size we can’t be sure that we get the next memory location to us for free. The shrinking will not work because the array, when declared, gets memory statically allocated, and thus compiler is the only one that can destroy it. For example: - If an array is of the integer datatype, then: -
+In C++, an array is a data structure consisting of a collection of elements of same memory size, each identified by at least one array index or key. Arrays have continous memory allocation In C++ language, the array has a fixed size meaning once the size is given to it, it cannot be changed. The reason was that for expanding if we change the size we can’t be sure that we get the next memory location to us for free. The shrinking will not work because the array, when declared, gets memory statically allocated, and thus compiler is the only one that can destroy it. For example: - If an array is of the integer datatype, then: -
 
 1. The array will contain only integer datatype values and variables
 2. If the first element memory address is allocated at 1000 then the 2nd element will have the memory address as 1004
@@ -278,4 +278,4 @@ return 0;
 
 
 ## Conclusion:
-This program helps us understand how conditional statements work in C++. These conditional statements can be used to make decisions in your program, specifically it only runs a block of code if a particular situation occurs.
+This program helps us understand how arrays work in C++. Thier various different applications and operations.
